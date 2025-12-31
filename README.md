@@ -1,5 +1,4 @@
 ## Hi I'm Bousnina Ghofrane 👋
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Bousnina Ghofrane" src="./assets/gh-readme-header.png" /></a></p><br>
 
 👩🏻‍🎓 Computer Science student<br/>
 🔭 Working on expanding my skill set and gaining experience<br/>
