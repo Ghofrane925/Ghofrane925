@@ -1,8 +1,8 @@
 ## Hi I'm Bousnina Ghofrane 👋
 
-👩🏻‍🎓 Computer Science student
-🔭 Working on expanding my skill set and gaining experience
-💭 Currently learning about ML as well as IOT
+👩🏻‍🎓 Computer Science student<br/>
+🔭 Working on expanding my skill set and gaining experience<br/>
+💭 Currently learning about ML as well as IOT<br/>
 
 # 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
